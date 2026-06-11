@@ -144,7 +144,7 @@ El módulo `DisplayConfig` (MartinGC94) tiene su propia licencia MIT, compatible
 
 ## 👥 Créditos
 
-- **Autor del script**: [Tu nombre o usuario de GitHub]
+- **Autor del script**: [JuanK07100]
 - **Módulo DisplayConfig**: [MartinGC94](https://github.com/MartinGC94/DisplayConfig)
 - **Documentación y pruebas**: Basadas en análisis críticos y validación con `Get-Member` y `Get-Help`.
 
